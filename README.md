@@ -43,6 +43,6 @@ Reference:
 
 - The Tableau visualization is also available online interactive and downloadable at https://public.tableau.com/profile/liem.luong#!/
 
-- Online interactive visualization (scroll down and click on visualizations from the meta data section)
+- Online interactive visualization (scroll down and click on links from the METADATA section to view the visualization)
   https://public.tableau.com/profile/liem.luong#!/vizhome/COVID-19ContainmentandClosurePoliciesTimeSeries/Introduction
 
