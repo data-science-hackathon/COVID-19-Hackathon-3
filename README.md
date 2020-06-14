@@ -37,5 +37,5 @@ Take away:
 - This visualization provides viewer a venue to compare the trend, performance, and status overtime for each countries and regions for every all policy indicators C1 to C8. 
 
 Reference:
-- All the files and data for the projet are in this githut repository
-- The onlive Tableau workbook are available at https://public.tableau.com/profile/liem.luong#!/
+- All the files and data for the project are in this githut repository
+- The Tableau workbook is in this repository for download. It is also available online https://public.tableau.com/profile/liem.luong#!/
