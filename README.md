@@ -40,4 +40,9 @@ Take away:
 
 Reference:
 - All the files and data for the project are in this githut repository
+
 - The Tableau visualization is also available online interactive and downloadable at https://public.tableau.com/profile/liem.luong#!/
+
+- Online interactive visualization (scroll down and click on visualizations from the meta data section)
+  https://public.tableau.com/profile/liem.luong#!/vizhome/COVID-19ContainmentandClosurePoliciesTimeSeries/Introduction
+
