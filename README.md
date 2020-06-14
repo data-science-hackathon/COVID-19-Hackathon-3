@@ -7,6 +7,7 @@ Liem Luong
 Submission for Interactive Visualization
 
 Introduction:
+
 COVID-19 is a global pandemic and its impacts can be seen around the world. There are a lot of visualization on the internet and majority of them are focusing on tracking the confirmed cases and confirmed deaths across the location dimension (world level, country level, city level, and county level). Rather than repeating the same visualization on the internet, I decided to look at the COVID-19 from a different perspective based on the stringency index data from the OxCGRT Covid Policy Tracker. This will help the viewers to see the impact from the containment and closure policy between the countries around the world.
 
 Source:
